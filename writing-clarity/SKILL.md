@@ -1,5 +1,5 @@
 ---
-name: writing-clearly-and-concisely
+name: writing-clarity
 description: Use whenever you write prose a human will read — documentation, commit messages, code comments, error messages, reports, internal notes, or any explanation. Applies Strunk's timeless rules for clearer, stronger prose and flags common AI writing patterns. This is the foundation skill for all writing;
 ---
 

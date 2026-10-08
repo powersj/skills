@@ -1,5 +1,5 @@
 ---
-name: google-style
+name: writing-google-style
 description: Apply Google's developer documentation style conventions (https://developers.google.com/style) when writing or editing docs, READMEs, API references, user guides, changelogs, or error messages. Also use when the user asks about writing style, tone, formatting, capitalization, inclusive language, or how to structure technical content.
 ---
 
@@ -28,8 +28,7 @@ Good: "The function returns an error code."
 Bad: "An error code is returned by the function."
 
 **Be conversational but professional**: Write naturally without slang, jargon,
-or excessive formality. Use common contractions like "you're," "don't," and
-"it's" to maintain an informal tone.
+or excessive formality.
 
 ## What to Avoid
 
@@ -150,7 +149,7 @@ When style questions arise, consult in order:
 
 1. Project-specific guidelines
 2. Google Developer Documentation Style Guide, on which this skill is based
-3. Strunk's *Elements of Style* — invoke the `writing-clearly-and-concisely` skill for prose-level rules (active voice, concision, positive form)
+3. Strunk's *Elements of Style* — invoke the `writing-clarity` skill for prose-level rules (active voice, concision, positive form)
 4. Merriam-Webster (spelling)
 5. Chicago Manual of Style (general)
 6. Microsoft Writing Style Guide (technical)
